@@ -98,6 +98,9 @@ A-B-Testing-simulations/
 
 ## 🎮 Usage
 
+### 🌐 Live Demo
+Try the deployed application online: **[Link to Deployed App](https://prathamesh-thakurs-a-b-tests.streamlit.app/)**
+
 ### Running the Interactive Dashboard
 ```bash
 streamlit run app.py
